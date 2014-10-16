@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[clt:home|Door43 (clt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-clt|d43-clt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-clt/archive/master.zip|d43-clt.zip]]
+
+**Recent Changes**
+{{changes>ns = clt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/clt|Ethnologue data]]
+
